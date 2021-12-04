@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/r8g6ke8wfpg91crn?svg=true)](https://ci.appveyor.com/project/ElizavetaShkryabiy/auto-hw5-patterns)
+[![Build status](https://ci.appveyor.com/api/projects/status/owkqco5fxkk0r2wp?svg=true)](https://ci.appveyor.com/project/VereskQA/aqahw4-1)
